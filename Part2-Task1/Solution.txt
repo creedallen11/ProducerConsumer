@@ -1,0 +1,48 @@
+./ProducerConsumer 5 10 15 SAMPLE OUTPUT
+
+Producer: produced request ID 1, length 6 seconds
+Producer: sleeping for 4 seconds
+Consumer 1: assigned request ID 1, processing request for the next 6 seconds 
+Producer: produced request ID 2, length 5 seconds
+Producer: sleeping for 3 seconds
+Consumer 2: assigned request ID 2, processing request for the next 5 seconds 
+Consumer 1: completed request ID 1 
+Producer: produced request ID 3, length 12 seconds
+Producer: sleeping for 4 seconds
+Consumer 3: assigned request ID 3, processing request for the next 12 seconds 
+Consumer 2: completed request ID 2 
+Producer: produced request ID 4, length 10 seconds
+Producer: sleeping for 1 seconds
+Consumer 4: assigned request ID 4, processing request for the next 10 seconds 
+Producer: produced request ID 5, length 9 seconds
+Producer: sleeping for 4 seconds
+Consumer 5: assigned request ID 5, processing request for the next 9 seconds 
+Producer: produced request ID 6, length 5 seconds
+Producer: sleeping for 2 seconds
+Consumer 6: assigned request ID 6, processing request for the next 5 seconds 
+Producer: produced request ID 7, length 3 seconds
+Producer: sleeping for 5 seconds
+Consumer 7: assigned request ID 7, processing request for the next 3 seconds 
+Consumer 3: completed request ID 3 
+Consumer 4: completed request ID 4 
+Consumer 5: completed request ID 5 
+Consumer 6: completed request ID 6 
+Consumer 7: completed request ID 7 
+Producer: produced request ID 8, length 6 seconds
+Producer: sleeping for 5 seconds
+Consumer 8: assigned request ID 8, processing request for the next 6 seconds 
+Producer: produced request ID 9, length 6 seconds
+Producer: sleeping for 3 seconds
+Consumer 9: assigned request ID 9, processing request for the next 6 seconds 
+Consumer 8: completed request ID 8 
+Producer: produced request ID 10, length 7 seconds
+Producer: sleeping for 4 seconds
+Consumer 10: assigned request ID 10, processing request for the next 7 seconds 
+Consumer 9: completed request ID 9 
+Producer: produced request ID 11, length 10 seconds
+Producer: sleeping for 5 seconds
+Consumer 1: assigned request ID 11, processing request for the next 10 seconds 
+Consumer 10: completed request ID 10 
+Producer: produced request ID 12, length 4 seconds
+Producer: sleeping for 5 seconds
+Consumer 2: assigned request ID 12, processing request for the next 4 seconds 

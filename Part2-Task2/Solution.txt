@@ -1,0 +1,66 @@
+// Sample Output with N = 5 M = 15
+
+
+Producer: produced request ID 1, length 5.276 seconds.
+Consumer 5: Assigned request ID 1 processing request for next 5.276 seconds.
+Producer: produced request ID 2, length 1.073 seconds.
+Consumer 1: Assigned request ID 2 processing request for next 1.073 seconds.
+Producer: produced request ID 3, length 1.031 seconds.
+Producer: produced request ID 4, length 0.093 seconds.
+Consumer 3: Assigned request ID 4 processing request for next 0.093 seconds.
+Consumer 2: Assigned request ID 3 processing request for next 1.031 seconds.
+Producer: produced request ID 5, length 5.71 seconds.
+Consumer 4: Assigned request ID 5 processing request for next 5.71 seconds.
+Producer: produced request ID 6, length 6.532 seconds.
+Producer: produced request ID 7, length 0.277 seconds.
+Producer: produced request ID 8, length 12.767 seconds.
+Consumer 3: Assigned request ID 7 processing request for next 0.277 seconds.
+Consumer 1: Assigned request ID 6 processing request for next 6.532 seconds.
+Consumer 2: Assigned request ID 8 processing request for next 12.767 seconds.
+Producer: produced request ID 9, length 3.131 seconds.
+Consumer 3: Assigned request ID 9 processing request for next 3.131 seconds.
+Producer: produced request ID 10, length 5.93 seconds.
+Consumer 5: Assigned request ID 10 processing request for next 5.93 seconds.
+Producer: produced request ID 11, length 0.997 seconds.
+Producer: produced request ID 12, length 11.518 seconds.
+Consumer 3: Assigned request ID 11 processing request for next 0.997 seconds.
+Consumer 4: Assigned request ID 12 processing request for next 11.518 seconds.
+Producer: produced request ID 13, length 10.207 seconds.
+Producer: produced request ID 14, length 0.31 seconds.
+Producer: produced request ID 15, length 5.737 seconds.
+Consumer 3: Assigned request ID 13 processing request for next 10.207 seconds.
+Producer: produced request ID 16, length 0.512 seconds.
+Producer: produced request ID 17, length 2.3 seconds.
+Producer: produced request ID 18, length 12.988 seconds.
+Producer: produced request ID 19, length 0.081 seconds.
+Consumer 1: Assigned request ID 14 processing request for next 0.31 seconds.
+Consumer 1: Assigned request ID 15 processing request for next 5.737 seconds.
+Producer: produced request ID 20, length 5.707 seconds.
+Consumer 5: Assigned request ID 16 processing request for next 0.512 seconds.
+Consumer 5: Assigned request ID 17 processing request for next 2.3 seconds.
+Producer: produced request ID 21, length 5.564 seconds.
+Producer: produced request ID 22, length 9.566 seconds.
+Producer: produced request ID 23, length 4.481 seconds.
+Consumer 5: Assigned request ID 18 processing request for next 12.988 seconds.
+Consumer 1: Assigned request ID 19 processing request for next 0.081 seconds.
+Producer: produced request ID 24, length 0.63 seconds.
+Consumer 1: Assigned request ID 20 processing request for next 5.707 seconds.
+Producer: produced request ID 25, length 14.326 seconds.
+Consumer 2: Assigned request ID 21 processing request for next 5.564 seconds.
+Producer: produced request ID 26, length 4.672 seconds.
+Consumer 3: Assigned request ID 22 processing request for next 9.566 seconds.
+Producer: produced request ID 27, length 0.58 seconds.
+Consumer 4: Assigned request ID 23 processing request for next 4.481 seconds.
+Producer: produced request ID 28, length 0.943 seconds.
+Consumer 2: Assigned request ID 24 processing request for next 0.63 seconds.
+Producer: produced request ID 29, length 0.909 seconds.
+Consumer 1: Assigned request ID 25 processing request for next 14.326 seconds.
+Producer: produced request ID 30, length 8.679 seconds.
+Consumer 2: Assigned request ID 26 processing request for next 4.672 seconds.
+Producer: produced request ID 31, length 1.714 seconds.
+Consumer 4: Assigned request ID 27 processing request for next 0.58 seconds.
+Producer: produced request ID 32, length 3.947 seconds.
+Consumer 4: Assigned request ID 28 processing request for next 0.943 seconds.
+Producer: produced request ID 33, length 8.155 seconds.
+Consumer 4: Assigned request ID 29 processing request for next 0.909 seconds.
+Producer: produced request ID 34, length 2.351 seconds.
